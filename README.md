@@ -1,4 +1,7 @@
 # DSCI403-Weather-Prediction
+###### * Using Python programming language
+###### * The course project code is not allowed to be published online，but I am happy to share the ideas of implementation and running results of my algorithm!
+###### * I'd be happy to provide source code for interviews!
 
 ### This project explored the Random Forest machine learning algorithm to predict the weather, specifically the temperature.
 ![image](https://github.com/pingzhang1004/DSCI403-Weather-Prediction/blob/main/tree.png)
